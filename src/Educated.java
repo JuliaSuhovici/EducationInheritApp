@@ -1,9 +1,9 @@
 
 class Educated{
     private String fullname;     
-    private byte  age;          
+    protected byte  age;          
     private float average_grade; 
-    private byte level;          
+    protected byte level;          
    
     Educated(){}
     Educated(String fullname, double average_grade) {
