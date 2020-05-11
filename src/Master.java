@@ -1,7 +1,5 @@
 
 class Master extends Student{
-	private byte age;
-	private byte level;
    
 	Master(String fullname, int age, double average_grade, int level, String university_name, String speciality){
 		super(fullname, average_grade,university_name,speciality);
