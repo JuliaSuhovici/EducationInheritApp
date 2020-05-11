@@ -1,7 +1,5 @@
 
 class Pupil extends Educated{
-	private byte level; 
-	private byte age;
 	private String school_name;
    
 	Pupil(){}
