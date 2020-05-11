@@ -1,7 +1,6 @@
 
 class Student extends Pupil{
-	private byte age;
-	private byte level;
+	
 	private String university_name;
 	private String speciality;
     
